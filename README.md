@@ -8,7 +8,7 @@ I'm Picky.
 
 - 📫 How to reach me: ...
 [visit my website:](https://www.jnathan.com.ng)
-
+---
 ### I'm available for work or collaboration.
 
 <!--
