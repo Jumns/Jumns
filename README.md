@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm **Nathan Jonah** a passionate and dream filled frontend developer.
-> If a programmer of a developer has no life, then I should be coding from the cemetery ___ *Nathan Jonah*
+> If a programmer or a developer has no life, then I should be coding from the cemetery ___ *Nathan Jonah*
 ---
 - ⚡ Fun fact: ... 
 I'm Picky.
