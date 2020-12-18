@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm **Nathan Jonah** a passionate and dream filled frontend developer.
+> If a programmer of a developer has no life, then I should be coding from the cemetery _ *Nathan Jonah*
+---
+- ⚡ Fun fact: ... 
+I'm Picky.
+
+- 📫 How to reach me: ...
+[Website:](https://www.jnathan.com.ng)
+
+## I'm available for work or collaboration.
+
 <!--
 **Jumns/Jumns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
