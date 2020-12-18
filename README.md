@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-I'm **Nathan Jonah** a passionate and dream filled frontend developer.
+I'm **Nathan Jonah** a passionate and dream filled frontend developer 💻.
 > If a programmer or a developer has no life, then I should be coding from the cemetery ___ *Nathan Jonah*
 ---
 - ⚡ Fun fact: ... 
 I'm Picky.
 
 - 📫 How to reach me: ...
-[visit my website:](https://www.jnathan.com.ng)
+[visit my website: 🌍](https://www.jnathan.com.ng)
 ---
 ### I'm available for work or collaboration.
 
