@@ -7,7 +7,7 @@ I'm **Nathan Jonah** a passionate and dream filled frontend developer 💻.
 I'm Picky.
 
 - 📫 How to reach me: ...
-[visit my website: 🌍](https://www.jnathan.com.ng)
+[visit my website: 🌍](https://nathanonline.netlify.app)
 - 😄 Pronouns: He/Him
 ---
 ### I'm available for work or collaboration.
